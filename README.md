@@ -1,4 +1,4 @@
-**# Face Recognition Attendance System with Realtime Database**
+# **Face Recognition Attendance System with Realtime Database**
 
 **Overview**
 
